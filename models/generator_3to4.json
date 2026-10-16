@@ -1,0 +1,29 @@
+{
+  "transition": "3to4",
+  "trained_at": "2026-10-16T13:02:56+00:00",
+  "steps": 10000,
+  "guided_by": "models/cnn_efficientnetb0_224.keras",
+  "source_images": 696,
+  "target_images": 618,
+  "args": {
+    "transition": 3,
+    "steps": 10000,
+    "batch_size": 4,
+    "base_filters": 32,
+    "lr": 0.0002,
+    "lambda_cycle": 10.0,
+    "lambda_identity": 5.0,
+    "guide": "models/cnn_efficientnetb0_224.keras",
+    "lambda_class": 0.1,
+    "lambda_diversity": 1.0,
+    "rotate": true,
+    "log_every": 200,
+    "sample_every": 2000,
+    "checkpoint_every": 2000,
+    "seed": 42
+  },
+  "versions": {
+    "keras": "3.15.1",
+    "tensorflow": "2.21.0"
+  }
+}

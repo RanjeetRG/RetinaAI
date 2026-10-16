@@ -1,0 +1,21 @@
+path,true_stage,analyse_s,save_and_report_s,graded,simulated_to,regraded,note,ok
+dataset/test/0/aptos_98d41bce73a8.jpg,0,2.268,0.183,0,1.0,1.0,,True
+dataset/test/0/eyepacs_27898_right.jpg,0,1.302,0.115,0,1.0,1.0,,True
+dataset/test/0/aptos_de6210f88536.jpg,0,1.313,0.113,0,1.0,1.0,,True
+dataset/test/0/eyepacs_17725_left.jpg,0,1.318,0.107,0,1.0,0.0,,True
+dataset/test/1/aptos_65e51e18242b.jpg,1,1.668,0.118,1,2.0,2.0,,True
+dataset/test/1/eyepacs_10426_left.jpg,1,1.29,0.123,0,1.0,2.0,,True
+dataset/test/1/eyepacs_19075_left.jpg,1,1.3,0.125,0,1.0,0.0,,True
+dataset/test/1/eyepacs_14212_left.jpg,1,1.463,0.141,0,1.0,0.0,,True
+dataset/test/2/eyepacs_13099_left.jpg,2,0.996,0.076,4,,,"Stage 4 (Proliferative) is the last stage of the scale, so there is no later stage to simulate.",True
+dataset/test/2/eyepacs_9964_right.jpg,2,1.81,0.119,2,3.0,3.0,,True
+dataset/test/2/aptos_d9311f7497cb.jpg,2,1.294,0.123,2,3.0,4.0,,True
+dataset/test/2/eyepacs_6624_right.jpg,2,1.355,0.11,2,3.0,3.0,,True
+dataset/test/3/eyepacs_12490_right.jpg,3,1.737,0.109,3,4.0,4.0,,True
+dataset/test/3/eyepacs_34831_right.jpg,3,1.491,0.106,2,3.0,3.0,,True
+dataset/test/3/aptos_19244004583f.jpg,3,1.129,0.079,4,,,"Stage 4 (Proliferative) is the last stage of the scale, so there is no later stage to simulate.",True
+dataset/test/3/eyepacs_29976_left.jpg,3,1.527,0.415,2,3.0,3.0,,True
+dataset/test/4/aptos_ff8a0b45c789.jpg,4,1.431,0.126,2,3.0,3.0,,True
+dataset/test/4/eyepacs_35955_left.jpg,4,0.934,0.094,4,,,"Stage 4 (Proliferative) is the last stage of the scale, so there is no later stage to simulate.",True
+dataset/test/4/eyepacs_28386_right.jpg,4,1.002,0.096,4,,,"Stage 4 (Proliferative) is the last stage of the scale, so there is no later stage to simulate.",True
+dataset/test/4/aptos_66375b3c64db.jpg,4,1.372,0.284,2,3.0,3.0,,True

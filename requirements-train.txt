@@ -1,0 +1,3 @@
+# GPU training in WSL2 Ubuntu (Linux only): the same packages plus TensorFlow's CUDA/cuDNN wheels.
+-r requirements.txt
+tensorflow[and-cuda]==2.21.0

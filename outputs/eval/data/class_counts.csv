@@ -1,0 +1,8 @@
+split,source,No DR,Mild,Moderate,Severe,Proliferative,total
+test,aptos,270,50,138,25,40,523
+test,eyepacs,3878,363,777,130,113,5261
+train,aptos,1257,237,645,117,185,2441
+train,eyepacs,18051,1699,3714,609,484,24557
+validation,aptos,269,51,138,25,39,522
+validation,eyepacs,3852,376,788,133,110,5259
+total,,27577,2776,6200,1039,971,38563

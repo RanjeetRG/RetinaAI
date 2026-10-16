@@ -1,0 +1,4 @@
+backbone,split,subset,n,qwk,accuracy,macro_f1,macro_recall,referable_sensitivity,referable_specificity,referable_auc,recall_severe,recall_proliferative,screening_sensitivity,screening_specificity
+efficientnetb0,test,all,5784,0.6952,0.7638,0.5209,0.5243,0.6361,0.9548,0.8931,0.4581,0.634,0.87,0.7091
+efficientnetb0,test,aptos,523,0.912,0.8356,0.6799,0.6969,0.9212,0.9594,0.9872,0.36,0.675,0.9951,0.85
+efficientnetb0,test,eyepacs,5261,0.645,0.7567,0.4929,0.4979,0.5794,0.9545,0.8708,0.4769,0.6195,0.8451,0.6984

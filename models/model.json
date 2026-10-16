@@ -1,0 +1,35 @@
+{
+  "backbone": "efficientnetb0",
+  "input_size": 384,
+  "trained_at": "2026-10-15T08:05:04+00:00",
+  "best_epoch": 9,
+  "val_qwk": 0.7482225026011571,
+  "train_minutes": 88.6,
+  "train_images": 26998,
+  "class_weights": [
+    0.643820438409648,
+    2.033202935495803,
+    1.355002105452266,
+    3.3202064903290784,
+    3.45875934592124
+  ],
+  "args": {
+    "backbone": "efficientnetb0",
+    "size": 384,
+    "promote": true,
+    "batch_size": 16,
+    "head_epochs": 2,
+    "head_lr": 0.001,
+    "epochs": 25,
+    "lr": 0.0002,
+    "weight_decay": 0.0001,
+    "dropout": 0.3,
+    "class_weight_power": 0.5,
+    "patience": 5,
+    "workers": 6,
+    "seed": 42
+  },
+  "versions": {
+    "keras": "3.15.1"
+  }
+}
